@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+button{
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: coral;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+h1{
+  padding: 10px 90px;
+  margin: 20px;
+  background-color: rgb(233, 152, 152) ;
+  width: fit-content;
+  border-radius: 10px;
+  font-size: 100px;
+}
